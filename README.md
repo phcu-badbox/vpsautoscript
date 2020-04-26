@@ -27,10 +27,7 @@
 
 <h3 align="center">Installation</h3>
 
-<p align="center">
-<b>bash -c "$(wget https://www.trickshared.com/autovps -qO-)"</b>
-  </p>
 
-| Name             | : | Command                                             |
-|------------------|---|-----------------------------------------------------|
-| Centos Web Panel | : | `bash <(curl centos7.panel.web.id/cwpanel/)`        |
+|  VPS     | : | Command                                                       |
+|----------|---|---------------------------------------------------------------|
+| DEBIAN 9 | : | `bash -c "$(wget https://www.trickshared.com/autovps -qO-)"`  |
