@@ -30,3 +30,7 @@
 <p align="center">
 <b>bash -c "$(wget https://www.trickshared.com/autovps -qO-)"</b>
   </p>
+
+| Name             | : | Command                                             |
+|------------------|---|-----------------------------------------------------|
+| Centos Web Panel | : | `bash <(curl centos7.panel.web.id/cwpanel/)`        |
