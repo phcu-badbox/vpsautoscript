@@ -14,6 +14,8 @@
   <a><img src="https://img.shields.io/badge/Service-Stunnel-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OpenVPN-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Squid3-green.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-ANTIDDOS-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-AntiTORRENT-yellow.svg"></a>
  </p>
 <h3 align="center">Commands</h3>
 <p align="center">
